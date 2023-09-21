@@ -134,18 +134,7 @@ optimizations required for clean code.
   
 ## Feedback
 
-If you have any feedback, please reach out to us at [aritra.or.biddu@gmail.com ](mailto:aritra.or.biddu@gmail.com)
-## 🔗 Links
-
-#### Adityaprava Sen-
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityapravasen.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaprava-sen-0911/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdityapravaS)
-
-#### Aritra Basu-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-basu-58057b192/)
+If you have any feedback, please reach out to us at [23f3000095@ds.study.iitm.ac.in ](mailto:23f3000095@ds.study.iitm.ac.in)
 
 ## Disclaimer
 
