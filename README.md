@@ -51,11 +51,6 @@ sample output for *TCS.NS Stock*-
  - [Investopedia](https://www.investopedia.com/)
  - [SIDDHARTH BHANUSHALI ](https://www.youtube.com/channel/UCoi7mlbUebBpQmDtB3L557A)
  - [Yahoo Finance](https://finance.yahoo.com/)
-  
-## Authors
-
-- [Adityaprava Sen](https://github.com/AdityapravaSen)
-- [Aritra Basu](https://github.com/aritra1311)
 
   
 ## Features
@@ -112,7 +107,7 @@ To deploy this project install [Streamlit](https://streamlit.io/)
   
 ## Support
 
-For support, email [adityapravasen.0911@gmail.com](mailto:adityapravasen.0911@gmail.com) .
+For support, email [23f3000095@ds.study.iitm.ac.in](mailto:23f3000095@ds.study.iitm.ac.in) .
 
   
 ## Roadmap
